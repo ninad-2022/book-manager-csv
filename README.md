@@ -2,10 +2,10 @@
 
 A powerful React web application for managing large CSV files containing book data. Upload, view, edit, filter, sort, and download your book database with ease.
 
-![CSV Book Manager](https://img.shields.io/badge/React-18.2.0-blue?style=flat-square&logo=react)
-![Papa Parse](https://img.shields.io/badge/Papa%20Parse-5.4.1-green?style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.3.0-blue?style=flat-square&logo=tailwindcss)
-![Lucide React](https://img.shields.io/badge/Lucide%20React-0.263.1-purple?style=flat-square)
+![CSV Book Manager](https://img.shields.io/badge/React-19.1.1-blue?style=flat-square&logo=react)
+![Papa Parse](https://img.shields.io/badge/Papa%20Parse-5.5.3-green?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.1.13-blue?style=flat-square&logo=tailwindcss)
+![Lucide React](https://img.shields.io/badge/Lucide%20React-0.544.0-purple?style=flat-square)
 
 ## ✨ Features
 
@@ -127,6 +127,7 @@ Make sure you have the following installed:
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "tailwindcss": "4.1.13",
     "papaparse": "^5.5.3",
     "lucide-react": "^0.544.0"
   },
